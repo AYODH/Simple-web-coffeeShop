@@ -1,4 +1,3 @@
-# Simple-web-coffeeShop
 # Responsive Coffee Shop Website
 
 This project is a responsive coffee shop website built with HTML, CSS and JavaScript. The website features a modern and clean design and includes multiple sections such as Home, About Us, Products, and Customer Reviews.
